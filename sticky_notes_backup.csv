@@ -1,0 +1,513 @@
+Text,WindowPosition,IsOpen,IsAlwaysOnTop,CreationNoteIdAnchor,Theme,IsFutureNote,RemoteId,ChangeKey,LastServerVersion,RemoteSchemaVersion,IsRemoteDataInvalid,PendingInsightsScan,Type,Id,ParentId,CreatedAt,DeletedAt,UpdatedAt
+"\id=6c8cad39-2189-4aa1-9c3d-c8d9ca01c0fe 
+\id=7dfeee4d-050c-4a0f-8420-9f94402e9d8c\l office
+\id=99905254-32a8-4583-b94e-ec23dc0db87d acrobat dc pro
+\id=d2688e83-6cb0-444a-84ea-0020903158da photoshop pro
+\id=ce2f6a20-a0d9-4e7a-9feb-9a7c32ad0ee6\l0 
+\id=163a0b7a-6565-429c-b40b-0704dfabefe3\l vs studio",ManagedPosition=,0,0,,Yellow,0,AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB6BbyFAAA,CQAAABYAAACPxoO9ev6hRppbIPND+l71AAHoFH/c,"{
+  ""id"": ""AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB6BbyFAAA"",
+  ""changeKey"": ""CQAAABYAAACPxoO9ev6hRppbIPND+l71AAHoFH/c"",
+  ""createdWithLocalId"": ""d04976a6-ec0d-47db-8599-76aac9688633"",
+  ""color"": 1,
+  ""document"": {
+    ""type"": ""document"",
+    ""blocks"": [
+      {
+        ""id"": ""6c8cad39-2189-4aa1-9c3d-c8d9ca01c0fe"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""7dfeee4d-050c-4a0f-8420-9f94402e9d8c"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""office"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {
+          ""listType"": ""bullet""
+        }
+      },
+      {
+        ""id"": ""99905254-32a8-4583-b94e-ec23dc0db87d"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""acrobat dc pro"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {
+          ""listType"": ""bullet""
+        }
+      },
+      {
+        ""id"": ""d2688e83-6cb0-444a-84ea-0020903158da"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""photoshop pro"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {
+          ""listType"": ""bullet""
+        }
+      },
+      {
+        ""id"": ""ce2f6a20-a0d9-4e7a-9feb-9a7c32ad0ee6"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""163a0b7a-6565-429c-b40b-0704dfabefe3"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""vs studio"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {
+          ""listType"": ""bullet""
+        }
+      }
+    ]
+  },
+  ""createdAt"": ""2022-02-09T20:50:02Z"",
+  ""lastModified"": ""2022-02-09T23:02:00Z"",
+  ""documentModifiedAt"": ""2022-02-09T23:02:00.7157194Z"",
+  ""media"": [],
+  ""tags"": []
+}",5,0,1,,d04976a6-ec0d-47db-8599-76aac9688633,9270e755-7a47-402d-bcc5-6981ed8fd85a,637800365899745159,,637800445207157194
+"\id=edbbabbc-38c4-49ac-8f79-81ca04a1db6b spy, chief, spec ops, master, pilot, subcommander, commander, paladin
+\id=e4f2b231-e503-4bda-a5dd-a663a2303b08 pilot officer, master of xxx, chief of xxx,
+\id=f3e4a2f4-1348-4868-b2cd-26cba8eeafe2 Captain of the Guardians, flagbearer, Starlord, Wing Commander
+\id=2b6ad509-dd6e-4362-bfa0-9e3a23b86d35 
+\id=a6a8dfb8-c807-414d-905a-917580ab9a2e Jr Pilot
+\id=71f07dcf-1807-4d7e-9d7a-387f757aa5b3 Pilot
+\id=c77a2a68-c86c-4ff7-85f4-de0eb21022b0 Master Pilot
+\id=564714d4-c65a-4206-a463-3b6c5afff733 Spaceman
+\id=acfec855-0a61-4f12-848b-adb2f8f225f2 Spec-Ops Spaceman
+\id=b05b6696-1389-4f8b-b01f-a39a35ec2413 Spaceman subcommander
+\id=6cc55949-2ee3-4726-babc-ab2e2288be52 Spaceman commander
+\id=d161ea6e-7be0-422b-b334-a0eaf7b8c8f9 Guardian
+\id=9279d631-e96a-4309-ae58-4b167bd51bad Gauss Guardian
+\id=78da0a84-5351-4c29-bca0-73508e02ae6b Captain of the guardians
+\id=30668dec-a630-4fc0-b5fe-d8e8d9f9e4b1 Star squire
+\id=b1a34515-5a9e-430a-88fb-9c197af920d6 Star knight
+\id=26f35210-ac97-4777-b510-70dd876782fd Starlord
+\id=b8f484ff-6e6f-4ae1-9ac2-5164d0a8da9a Supreme starlord
+\id=9b177dda-85e5-47b3-9518-839195035a2b 
+\id=bffdd8a5-183c-4108-a94f-a8c5f76a9625 
+\id=fd760165-7dd1-4f7c-ac2c-92230a133809 ",ManagedPosition=,0,0,,Yellow,0,AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB8RZu2AAA,CQAAABYAAACPxoO9ev6hRppbIPND+l71AAHxE74W,"{
+  ""id"": ""AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB8RZu2AAA"",
+  ""changeKey"": ""CQAAABYAAACPxoO9ev6hRppbIPND+l71AAHxE74W"",
+  ""createdWithLocalId"": ""4d0d3a68-80f9-41e5-a529-d79c323ce655"",
+  ""color"": 1,
+  ""document"": {
+    ""type"": ""document"",
+    ""blocks"": [
+      {
+        ""id"": ""edbbabbc-38c4-49ac-8f79-81ca04a1db6b"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""spy, chief, spec ops, master, pilot, subcommander, commander, paladin"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""e4f2b231-e503-4bda-a5dd-a663a2303b08"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""pilot officer, master of xxx, chief of xxx,"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""f3e4a2f4-1348-4868-b2cd-26cba8eeafe2"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Captain of the Guardians, flagbearer, Starlord, Wing Commander"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""2b6ad509-dd6e-4362-bfa0-9e3a23b86d35"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""a6a8dfb8-c807-414d-905a-917580ab9a2e"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Jr Pilot"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""71f07dcf-1807-4d7e-9d7a-387f757aa5b3"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Pilot"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""c77a2a68-c86c-4ff7-85f4-de0eb21022b0"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Master Pilot"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""564714d4-c65a-4206-a463-3b6c5afff733"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Spaceman"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""acfec855-0a61-4f12-848b-adb2f8f225f2"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Spec-Ops Spaceman"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""b05b6696-1389-4f8b-b01f-a39a35ec2413"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Spaceman subcommander"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""6cc55949-2ee3-4726-babc-ab2e2288be52"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Spaceman commander"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""d161ea6e-7be0-422b-b334-a0eaf7b8c8f9"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Guardian"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""9279d631-e96a-4309-ae58-4b167bd51bad"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Gauss Guardian"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""78da0a84-5351-4c29-bca0-73508e02ae6b"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Captain of the guardians"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""30668dec-a630-4fc0-b5fe-d8e8d9f9e4b1"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Star squire"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""b1a34515-5a9e-430a-88fb-9c197af920d6"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Star knight"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""26f35210-ac97-4777-b510-70dd876782fd"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Starlord"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""b8f484ff-6e6f-4ae1-9ac2-5164d0a8da9a"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Supreme starlord"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""9b177dda-85e5-47b3-9518-839195035a2b"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""bffdd8a5-183c-4108-a94f-a8c5f76a9625"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""fd760165-7dd1-4f7c-ac2c-92230a133809"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""755a059c-574d-4b46-b6bf-331c1bc1350c"",
+        ""type"": ""paragraph"",
+        ""content"": [],
+        ""blockStyles"": {}
+      }
+    ]
+  },
+  ""createdAt"": ""2022-02-25T01:03:49Z"",
+  ""lastModified"": ""2022-02-25T01:25:39Z"",
+  ""documentModifiedAt"": ""2022-02-25T01:25:39.1331032Z"",
+  ""media"": [],
+  ""tags"": []
+}",5,0,1,,4d0d3a68-80f9-41e5-a529-d79c323ce655,9270e755-7a47-402d-bcc5-6981ed8fd85a,637813477750962956,,637813491391331032
+"\id=84722a5e-226b-4bca-b7f0-3cad81d68575 Back:
+\id=9010b98c-e91e-4180-8919-0bb95f11c652 Pull up
+\id=e5eff6be-725f-47f3-b4a7-2228a972776a Superman
+\id=8b9494b6-13cf-41b3-9766-7e41e83e47af Reverse angels
+\id=c39bf347-8d52-479c-9ce6-8b45a18a36ff Back extensions
+\id=ee27c0dc-44bb-44d4-9837-cfc850f9ebf9 Bicep:
+\id=61ac0c56-0dd3-4159-8e64-732b58f8234d chin up","ManagedPosition=DeviceId:\\?\DISPLAY#AOC2270#5&e8882ed&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7};Position=152,173;Size=320,406",1,0,,Yellow,0,AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB9aUN_AAA,CQAAABYAAACPxoO9ev6hRppbIPND+l71AAH1oio4,"{
+  ""id"": ""AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB9aUN_AAA"",
+  ""changeKey"": ""CQAAABYAAACPxoO9ev6hRppbIPND+l71AAH1oio4"",
+  ""createdWithLocalId"": ""950590d8-090a-4234-8601-60b7b58fa01d"",
+  ""color"": 1,
+  ""document"": {
+    ""type"": ""document"",
+    ""blocks"": [
+      {
+        ""id"": ""84722a5e-226b-4bca-b7f0-3cad81d68575"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Back:"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""9010b98c-e91e-4180-8919-0bb95f11c652"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Pull up"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""e5eff6be-725f-47f3-b4a7-2228a972776a"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Superman"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""8b9494b6-13cf-41b3-9766-7e41e83e47af"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Reverse angels"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""c39bf347-8d52-479c-9ce6-8b45a18a36ff"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Back extensions"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""ee27c0dc-44bb-44d4-9837-cfc850f9ebf9"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Bicep:"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""61ac0c56-0dd3-4159-8e64-732b58f8234d"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""chin up"",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      }
+    ]
+  },
+  ""createdAt"": ""2022-03-02T18:46:11Z"",
+  ""lastModified"": ""2022-03-02T18:47:36Z"",
+  ""documentModifiedAt"": ""2022-03-02T18:47:36.4173923Z"",
+  ""media"": [],
+  ""tags"": []
+}",5,0,1,,950590d8-090a-4234-8601-60b7b58fa01d,9270e755-7a47-402d-bcc5-6981ed8fd85a,637818435674875466,,637818436564173923
+"\id=0503ffde-2b8b-4445-8038-c9d9a4ab3fe5 Chairman: 
+\id=b64047e3-931f-4282-9eae-1eeb49a79473 Senator: Decisionmakers of the Star Council they are like Commissars without the ability to kick alliance members. Their opinion matters to all of us.
+\id=84bff6dc-ae11-47ad-8096-db7a7fd434f1 Commissar: Managers of the alliance members, they can kick, recruit, approve members.
+\id=19518647-f26e-4c26-a21f-8ff1181d21cb Secundus: Right hand of the leader.
+\id=cffe6662-f851-4ffe-a50a-de9e03b3f79a Primus: Leader of the alliance.",,1,0,,Yellow,0,AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB9bSpVgAA,CQAAABYAAACPxoO9ev6hRppbIPND+l71AAH1sarv,"{
+  ""id"": ""AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0Aj8aDvXr_oUaaWyDzQ-pe9QAB9bSpVgAA"",
+  ""changeKey"": ""CQAAABYAAACPxoO9ev6hRppbIPND+l71AAH1sarv"",
+  ""createdWithLocalId"": ""b9ae5fe0-719d-403b-8a21-39520261b709"",
+  ""color"": 1,
+  ""document"": {
+    ""type"": ""document"",
+    ""blocks"": [
+      {
+        ""id"": ""0503ffde-2b8b-4445-8038-c9d9a4ab3fe5"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Chairman: "",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""b64047e3-931f-4282-9eae-1eeb49a79473"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Senator: Decisionmakers of the Star Council they are like Commissars without the ability to kick alliance members. Their opinion matters to all of us."",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""84bff6dc-ae11-47ad-8096-db7a7fd434f1"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Commissar: Managers of the alliance members, they can kick, recruit, approve members."",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""19518647-f26e-4c26-a21f-8ff1181d21cb"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Secundus: Right hand of the leader."",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      },
+      {
+        ""id"": ""cffe6662-f851-4ffe-a50a-de9e03b3f79a"",
+        ""type"": ""paragraph"",
+        ""content"": [
+          {
+            ""text"": ""Primus: Leader of the alliance."",
+            ""styles"": []
+          }
+        ],
+        ""blockStyles"": {}
+      }
+    ]
+  },
+  ""createdAt"": ""2022-03-05T12:40:01Z"",
+  ""lastModified"": ""2022-03-05T12:42:34Z"",
+  ""documentModifiedAt"": ""2022-03-05T12:42:32.0846718Z"",
+  ""media"": [],
+  ""tags"": []
+}",5,0,1,,b9ae5fe0-719d-403b-8a21-39520261b709,9270e755-7a47-402d-bcc5-6981ed8fd85a,637820807981014769,,637820809520846718
